@@ -1,0 +1,11 @@
+﻿bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+.vs/
+*.user
+
+# video production files stay out of the code repo
+videos/
+kits/
