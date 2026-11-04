@@ -1,4 +1,4 @@
-# EF Core for Beginners: From First Database to a Real API
+# EF Core for Beginners: Build an Event Management App with C# and .NET 10
 
 A 10-part video series on Entity Framework Core with C# and .NET 10. You build an **Event Management System** with **SQLite** (nothing to install).
 

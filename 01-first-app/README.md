@@ -1,6 +1,6 @@
 # Part 1: Your First EF Core App
 
-Part 1 of 10 in **EF Core for Beginners: From First Database to a Real API**.
+Part 1 of 10 in **EF Core for Beginners: Build an Event Management App with C# and .NET 10**.
 Running project: an Event Management System. Database: SQLite only.
 
 ## What you learn

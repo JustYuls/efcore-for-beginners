@@ -1,4 +1,4 @@
-# EF Core for Beginners: From First Database to a Real API
+# EF Core for Beginners: Build an Event Management App with C# and .NET 10
 
 Plan v2 (decisions confirmed). Nothing is recorded or uploaded yet.
 
@@ -10,7 +10,7 @@ Plan v2 (decisions confirmed). Nothing is recorded or uploaded yet.
 | Database | SQLite only |
 | Running project | **Event Management System** |
 | Viewer level | Intermediate C# (knows classes, interfaces, generics, LINQ basics, async/await). New to EF Core and databases-from-code |
-| Series and repo name | EF Core for Beginners: From First Database to a Real API. Repo: `efcore-for-beginners` (public, MIT) |
+| Series and repo name | EF Core for Beginners: Build an Event Management App with C# and .NET 10. Repo: `efcore-for-beginners` (public, MIT) |
 | Stack | .NET 10 (SDK 10.0.401 is installed on this PC), EF Core 10, xUnit, `dotnet ef` tool |
 | Format | Same as the MCP series: about 5 min per part, male Piper voice, burned-in captions, numbered files, PART N OF 10 thumbnails, YouTube kit, Shorts |
 
